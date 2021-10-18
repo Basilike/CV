@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# DARRAS Basile CV 
+basiledarras241102@gmail.com ; 0630394833 
 
-You can use the [editor on GitHub](https://github.com/Basilike/CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Etudiant a la Normandie Web school 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experience : 
 
-### Markdown
+* Co-fondateur et Community Manager du compte Twitter @Actugones (10000 followers)
+*(Octobre 2018 - Aujourd'hui)*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Bénévole à la FCPE Lycée Blaise Pascal :  Bourse aux livres (prises et préparation de commandes et reprises des livres) *(Juillet 2017 - Aujourd'hui)*
 
-```markdown
-Syntax highlighted code block
+* Stage d'observation de troisième Vétérinaire de tôtes *(1/02/2016 - 5/02/2016)*
 
-# Header 1
-## Header 2
-### Header 3
+## Compétences : 
+ * **Suite Adobe** (Photshop, Indesign, PremierePro, Illustrator)
+ * **Langues** : Je parle français, ai un niveau C1 en anglais, et j'ai des bases en Allemand et en Norvégien.  
 
-- Bulleted
-- List
+## Scolarité :
+Lycée Blaise Pascal *(2016-2020)* :
+* Seconde Générale *(2016-17)*
+* Première Scientifique *(2017-18)*
+* Première STI2D *(2018-19)*
+* Terminale STI2D *(2019-20)*
 
-1. Numbered
-2. List
+Iut de Rouen DUT GEII (Génie éléctrique et informatique industrielle) *(2020-21)*
+* Première année 
 
-**Bold** and _Italic_ and `Code` text
+Normandie Web School *(2021 - Aujourd'hui)*
+* Première année
 
-[Link](url) and ![Image](src)
-```
+## Diplômes :
+* Brevet des Collèges Mention Bien *(2016)*
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Baccalauréat STIDD (Sciences et Technologies de l'Industrie et du Développement Durable) Mention Très Bien *(2020)*
 
-### Jekyll Themes
+## Hobbies :
+ * Jouer de la guitare 
+ * Ecouter de la musique 
+ * Apprendre de nouvelles langues
+ * Voyager 
+ * Football 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Basilike/CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
